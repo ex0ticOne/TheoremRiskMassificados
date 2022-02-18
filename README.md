@@ -1,14 +1,10 @@
----
----
----
-
-## Seguros Massificados
+## TheoremRisk - Seguros Massificados
 
 Os scripts para os seguros massificados calculam prêmios de seguro e estatísticas com base nos datasets disponibilizados pelo sistema SES da SUSEP - Superintendência de Seguros Privados. <http://www2.susep.gov.br/redarq.asp?arq=BaseCompleta%2ezip>
 
 Para usar esses scripts, baixe o pack com os datasets por meio do link acima
 
-Os scripts para seguros massificados foram escritos para lerem e analisarem o dataset 'Ses_seguros.csv', que contém dados prêmios diretos, prêmios ganhos, sinistros ocorridos e demais informações elencadas por data/ companhia/grupo/ramo. Outros datasets não funcionarão com esse script por enquanto, mas adicionarei novo código para analisá-los quando possível.
+Os scripts para seguros massificados foram escritos para lerem e analisarem o dataset 'Ses_seguros.csv', que contém dados prêmios diretos, prêmios ganhos, sinistros ocorridos e demais informações elencadas por data/companhia/grupo/ramo. Outros datasets não funcionarão com esse script por enquanto, mas adicionarei novo código para analisá-los quando possível.
 
 ### Método de precificação
 
